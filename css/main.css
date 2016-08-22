@@ -8,6 +8,13 @@ body {
   padding: 2em;
 }
 
+@media screen and (max-width: 30em)  {    
+  body {    
+  border-width: 0;    
+  border-top-width: 0.3em;    
+  }    
+}    
+
 p {
   line-height: 1.5em;
 }
