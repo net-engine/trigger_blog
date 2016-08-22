@@ -19,6 +19,10 @@ p {
   line-height: 1.5em;
 }
 
+article img {
+  border: 1px solid #cbcbcb;
+}
+
 footer svg * { stroke: #efefef !important }
 
 footer svg {
