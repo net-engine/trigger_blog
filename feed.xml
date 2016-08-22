@@ -6,9 +6,72 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2016 17:17:48 +1000</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 17:17:48 +1000</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2016 09:24:17 +1000</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 09:24:17 +1000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Feature Spotlight: The Contractor Role</title>
+        <description>&lt;p&gt;We’ve had a tonne of questions about our the Contractor role recently so thought it timely to recap how exactly this role differs from an Employee and how it can be used to its full potential!&lt;/p&gt;
+
+&lt;p&gt;Aside from Client, the Contractor is the most limited of all the Trigger roles. Generally used for (you guessed it) Contractors, it can be used for any collaborator who is logging time on projects for one of your companies but doesn’t need, or isn’t authorised to view information pertaining to other companies.&lt;/p&gt;
+
+&lt;p&gt;You can invite a contractor through the People tab from wherever you are in the app. Just select + Add in the top right , select Invite Employee, enter the contractor’s email address and select only the companies you wish for them to have access to. Click Invite Employee and an invitation to join you will be sent straight to their inbox.&lt;/p&gt;
+
+&lt;p&gt;Much like an Employee, contractors can log time, update and complete tasks. However, unlike the Employee user, they are only able to access projects within companies they are invited to; they can’t see billing rates, fixed fees or time sheets.&lt;/p&gt;
+
+&lt;p&gt;You can add a Contractor to as many or as few companies as you like and remove them at any time. Just select the company you’d like to remove them from, then click the X next to their name. You will need to be either an Admin or Owner to in order to do this.&lt;/p&gt;
+
+&lt;p&gt;Happy Contracting!&lt;/p&gt;
+</description>
+        <pubDate>Thu, 04 Aug 2016 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2016/08/feature-spotlight-the-contractor-role/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2016/08/feature-spotlight-the-contractor-role/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Kanban is Here!</title>
+        <description>&lt;p&gt;The long awaited Kanban has arrived!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/kanban.png&quot; alt=&quot;kanban board&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Incredibly simple and powerful, the Kanban page displays your tasks as cards placed in columns for each status. Allowing you to visualise your team workflow and become even more efficient.&lt;/p&gt;
+
+&lt;p&gt;In case you are not familiar, Kanban is a visualisation tool that enables you to optimise your workflow. It is one of the most (if not the most) used frameworks for those in agile development and has recently gained popularity within media companies, manufacturing and even investment banking.&lt;/p&gt;
+
+&lt;p&gt;To give it a spin just jump in to the task list for any of your projects and select the Kanban view.&lt;/p&gt;
+
+&lt;p&gt;Fun Fact: Kanban is literally signboard or billboard in Japanese so saying Kanban Board is kind of like saying ATM Machine&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jul 2016 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2016/07/kanban-is-here/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2016/07/kanban-is-here/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ch-ch-ch-ch-changes</title>
+        <description>&lt;p&gt;Just a quick note to let you know that we’ve tweaked a few things in Trigger that we hope will save you those increasingly precious seconds.&lt;/p&gt;
+
+&lt;p&gt;First up, when entering a new task from the “create new” bar in the task view of a project you no longer need to reach all the way across to your mouse to click the “create” button. You are now able to save these details by pressing ctrl + enter on your keyboard.&lt;/p&gt;
+
+&lt;p&gt;Secondly, we spoke about our bookmarks feature recently and received some great feedback. In light of this we’ve made the process a little easier. Now once you have saved the name of your bookmark it will appear immediately in your bookmarks lists.&lt;/p&gt;
+
+&lt;p&gt;Finally, we’ve made a couple of changes to our milestones feature. Milestones now show in the order in which they were created with the newest first and we’ve also introduced a brand new “group by milestone” button. You can find this in the top right of the task view of a project.&lt;/p&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+
+&lt;p&gt;Team Trigger.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Jul 2016 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2016/07/ch-ch-ch-ch-changes/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2016/07/ch-ch-ch-ch-changes/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Three cool things you didn’t know Trigger could do</title>
