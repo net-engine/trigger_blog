@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2016 15:37:31 +1000</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 15:37:31 +1000</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2016 17:16:08 +1000</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 17:16:08 +1000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -31,8 +31,89 @@
 &lt;p&gt;Team Trigger&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Nov 2015 00:00:00 +1000</pubDate>
-        <link>http://blog.triggerapp.com/three-cool-things-you-didnt-know-trigger-could-do/</link>
-        <guid isPermaLink="true">http://blog.triggerapp.com/three-cool-things-you-didnt-know-trigger-could-do/</guid>
+        <link>http://blog.triggerapp.com/2015/11/three-cool-things-you-didnt-know-trigger-could-do/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2015/11/three-cool-things-you-didnt-know-trigger-could-do/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trigger now has more invoice templates</title>
+        <description>&lt;p&gt;We’re happy to announce that Trigger now has more invoice templates!&lt;/p&gt;
+
+&lt;h2 id=&quot;basic&quot;&gt;Basic&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/basic.jpg&quot; alt=&quot;basic template&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;standard&quot;&gt;Standard&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/standard.jpg&quot; alt=&quot;standard template&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;modern&quot;&gt;Modern&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/modern.jpg&quot; alt=&quot;modern template&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;clean&quot;&gt;Clean&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/clean.jpg&quot; alt=&quot;clean template&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can choose the one which best matches your visual identity in Account Settings / Invoice Settings / Invoice Template:&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 22 Apr 2015 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2015/04/trigger-has-now-more-invoice-templates/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2015/04/trigger-has-now-more-invoice-templates/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Feature Update 10 April 2015</title>
+        <description>&lt;p&gt;As always we have been hard at work adding new features and improvements to Trigger. Our goal with these changes is to make Trigger easier than ever to use and get your work done!&lt;/p&gt;
+
+&lt;h2 id=&quot;schedule&quot;&gt;Schedule&lt;/h2&gt;
+
+&lt;p&gt;Our new schedule view has received a lot of positive feedback (you can access the view here). On your schedule you can now make changes to days in the past (previously you could only update days in the future).&lt;/p&gt;
+
+&lt;p&gt;One of our planned features which we hope to release shortly will allow you to have more than one project on each day in your schedule.&lt;/p&gt;
+
+&lt;h2 id=&quot;task-pages&quot;&gt;Task Pages&lt;/h2&gt;
+
+&lt;p&gt;Every task has a description and we had several requests to allow everyone to see when a task description was updated and what changes were made.&lt;/p&gt;
+
+&lt;p&gt;Now when you update a task description you will see something like this:&lt;/p&gt;
+
+&lt;h2 id=&quot;custom-currency-symbol&quot;&gt;Custom Currency Symbol&lt;/h2&gt;
+
+&lt;p&gt;We now allow custom currency symbols to be used in Trigger. You can now enter any character you would like to use for your currency symbol.&lt;/p&gt;
+
+&lt;h2 id=&quot;back-to-last-search&quot;&gt;Back to Last Search&lt;/h2&gt;
+
+&lt;p&gt;At the top of task updates you will now see a “Back to Last Search Button” if you came to that page by a search.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 07 Apr 2015 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2015/04/feature-update-07-april-2015/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2015/04/feature-update-07-april-2015/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trigger is now free for 60 days!</title>
+        <description>&lt;p&gt;We are proud to announce that you can now try Trigger free for 60 days, this is to give you time to really see the power and value of catching all logged time, and billing for it.&lt;/p&gt;
+
+&lt;p&gt;After speaking to agencies and teams that didn’t extend their 14 day trial we realised that they hadn’t seen or used 90% of the powerful timetracking, invoicing and reporting features that set Trigger apart from the ‘task management systems’ out there.&lt;/p&gt;
+
+&lt;p&gt;Trigger guides small businesses and teams, helping them keep the conversation in one place, time logged in context, and then at invoice time getting paid is a breeze.&lt;/p&gt;
+
+&lt;p&gt;We hope that by giving you 60 days, you’ll have a chance to get addicted to knowing where you’re at with all your projects and being more profitable, and your team the chance to see how Trigger can help you be more productive and get your work done.&lt;/p&gt;
+
+&lt;p&gt;There is no credit card required, and you can get &lt;a href=&quot;www.triggerapp.com/signups/new&quot;&gt;get started here!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Nov 2014 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2014/11/trigger-is-now-free-for-60-days/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2014/11/trigger-is-now-free-for-60-days/</guid>
         
         
       </item>

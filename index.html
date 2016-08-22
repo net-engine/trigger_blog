@@ -9,12 +9,10 @@ layout: default
     {% for post in site.posts %}
       <li class="py3">
         <h2 class="m0">
-          <a class="light text-decoration-none" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+          <a class="blue light text-decoration-none" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
         <span class="mt0 post-meta h6 italic grey">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
     {% endfor %}
   </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

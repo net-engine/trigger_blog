@@ -9,5 +9,5 @@ baseurl: ''
 url: 'http://blog.triggerapp.com'
 twitter_username: triggerapp
 markdown: kramdown
-permalink: /:categories/:title/
+permalink: /:year/:month/:title/
 exclude: ['Gemfile', 'Gemfile.lock', 'README.md', 'deploy']
