@@ -7,6 +7,8 @@ else
   echo '➙ Building static files...' && \
   bundle exec jekyll build --quiet
 
+  echo 'blog.triggerapp.com' > _site/CNAME
+
   echo '➙ Pushing changes to repository...' && \
   git commit -am "[auto commit] Re-build static files in '_site' folder" >> /dev/null 2>&1 && \
   git push >> /dev/null 2>&1 && \
