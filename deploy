@@ -8,7 +8,7 @@ else
   bundle exec jekyll build --quiet
 
   echo '➙ Pushing changes to repository...' && \
-  git commit -am "[auto commit] Re-building static files in '_site' folder" >> /dev/null 2>&1 && \
+  git commit -am "[auto commit] Re-build static files in '_site' folder" >> /dev/null 2>&1 && \
   git push >> /dev/null 2>&1 && \
 
   echo '➙ Deploying...' && \
