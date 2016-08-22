@@ -6,20 +6,34 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 22 Aug 2016 10:41:10 +1000</pubDate>
-    <lastBuildDate>Mon, 22 Aug 2016 10:41:10 +1000</lastBuildDate>
+    <pubDate>Mon, 22 Aug 2016 14:30:30 +1000</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2016 14:30:30 +1000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to the new Trigger Blog!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Three cool things you didn’t know Trigger could do</title>
+        <description>&lt;p&gt;It’s come to our attention that some of our users are doing things the long way and aren’t aware of a few features we think are pretty useful. As we are all about productivity we thought we’d send across a few of our favourite time savers.&lt;/p&gt;
+
+&lt;h2 id=&quot;keyboard-shortcuts&quot;&gt;Keyboard Shortcuts&lt;/h2&gt;
+
+&lt;p&gt;Pressing the ? key while in Trigger will bring up a list of all the keyboard shortcuts available to you. Our favourites are are the t and s shortcuts, t opens up the new task form and s will take you immediately to the search bar.&lt;/p&gt;
+
+&lt;h2 id=&quot;email-to-tasks&quot;&gt;Email to Tasks&lt;/h2&gt;
+
+&lt;p&gt;An even quicker way to create new tasks is to forward them to Trigger directly from your email inbox. Each project on Trigger has a unique email address, to find this go to the desired project, select the + symbol in the right hand corner and then choose the “Email Task” option. This will copy the email address to your clipboard. To save having to do this each time we usually save the email address in our contacts with Trigger as the first name and the name of the project as the last name. Simply forward the email to this address and a task will be created automatically.&lt;/p&gt;
+
+&lt;h2 id=&quot;bookmark-searches&quot;&gt;Bookmark Searches&lt;/h2&gt;
+
+&lt;p&gt;If you’re finding yourself navigating to a particular page frequently it can be helpful to save this as a bookmark. This can be especially useful for specific search result page. Just visit the page you’d like to bookmark, select the star icon in the top right-hand corner and click “Bookmark this page”. From here you’ll be able to enter a title and save. The bookmark can then be accessed from this same menu.&lt;/p&gt;
+
+&lt;p&gt;Let us know how you go!&lt;/p&gt;
+
+&lt;p&gt;Team Trigger&lt;/p&gt;
 </description>
-        <pubDate>Mon, 22 Aug 2016 10:09:12 +1000</pubDate>
-        <link>http://blog.triggerapp.com/trigger/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://blog.triggerapp.com/trigger/welcome-to-jekyll/</guid>
+        <pubDate>Tue, 03 Nov 2015 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/three-cool-things-you-didnt-know-trigger-could-do/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/three-cool-things-you-didnt-know-trigger-could-do/</guid>
         
-        
-        <category>trigger</category>
         
       </item>
     
