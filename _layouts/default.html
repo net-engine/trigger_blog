@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="blue-bg grey-75">
+    <div class="padding-l-2 padding-r-2 sm-padding-l-4 sm-padding-r-4">
+      {% include header.html %}
+      <div class="container wide-container blue-lighter-bg padding-t-1"></div>
+      <div class="container wide-container white-bg padding-2 sm-padding-4 padding-b-6">
+        <div class="animated fadeInUp">
+          <div class="row sm-row">
+            <div class="column sm-column-33 sm-padding-r-4 padding-b-4 sm-padding-b-0">
+              <h3 class="regular border-bottom grey-10 padding-b-1">
+                <span class="grey-75">Categories</span>
+                <a class="float-right mobile-show" id="js-categories-toggle" href="#"> Hide </a>
+              </h3>
+              <div id="js-categories">
+                {% for category in site.categories %}
+                  <p class="semi-bold capitalize margin-b-1">{{ category | first }}</p>
+                  <ul class="margin-b-1">
+                    {% for posts in category %}
+                      {% for post in posts %}
+                        {% if post.url %}
+                          <a class="block padding-b-1" href="{{ post.url }}">{{ post.title }}</a>
+                        {% endif %}
+                      {% endfor %}
+                    {% endfor %}
+                  </ul>
+                {% endfor %}
+              </div>
+            </div>
+            <div class="column">
+              {{ content }}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container wide-container orange-bg padding-t-1 smaller"></div>
+      <div class="container wide-container padding-t-2">
+        {% include footer.html %}
+      </div>
+    </div>
+  </body>
+</html>
