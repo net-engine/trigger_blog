@@ -1,0 +1,18 @@
+#!/bin/sh
+
+if [ -n "$(git status --porcelain)" ];
+then
+  echo '➙ Push your changes to master before deploying!'
+else
+  echo '➙ Building static files...' && \
+  bundle exec jekyll build --quiet
+
+  echo '➙ Pushing changes to repository...' && \
+  git commit -am "[auto commit] Re-building static files in '_site' folder" >> /dev/null 2>&1 && \
+  git push >> /dev/null 2>&1 && \
+
+  echo '➙ Deploying...' && \
+  git subtree push --prefix _site origin gh-pages >> /dev/null 2>&1 # Pushing only '_site' folder to gh-pages branch
+
+  echo '➙ Done!'
+fi
