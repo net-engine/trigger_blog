@@ -3,7 +3,7 @@ title: 'Recruit Smarter with Trigger'
 layout: post
 ---
 
-We’ve spoken about the benefits of of the email to task (http://blog.triggerapp.com/2015/11/three-cool-things-you-didnt-know-trigger-could-do/) feature before, but today I wanted to to draw special attention to how this can be used to make recruiting easier for your team, and how we at Trigger manage this ourselves.
+We’ve spoken about the benefits of of the [email to task](http://blog.triggerapp.com/2015/11/three-cool-things-you-didnt-know-trigger-could-do/) feature before, but today I wanted to to draw special attention to how this can be used to make recruiting easier for your team, and how we at Trigger manage this ourselves.
 
 We advertise our available roles in a few places but for the purpose of this blog I’m going to discuss Seek only. Seek has a pretty great Employer end which I find especially useful for emailing a large number of candidates a single communication but it’s missing a few key features - we use Trigger to pick up the slack. 
 
