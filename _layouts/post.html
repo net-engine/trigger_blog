@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  
-  <h1 itemprop="name headline" class="mb0 block pt3 light">{{ page.title }}</h1>
-  <span class="mt1 mb2 inline-block pb3 post-meta h6 italic grey">{{ page.date | date: "%b %-d, %Y" }}</span>
+<h1 class="mt4 light white center blue-bg p4">{{ page.title }}</h1>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
+<div class="mx-auto max-width-3 p2 pb3">
+  <div>
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <span class="mt1 mb2 inline-block pb3 post-meta h6 italic grey">{{ page.date | date: "%b %-d, %Y" }}</span>
+
+      <div class="post-content" itemprop="articleBody">
+        {{ content }}
+      </div>
+    </article>
   </div>
-</article>
+</div>
