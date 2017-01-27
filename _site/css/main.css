@@ -62,3 +62,11 @@ h1,h2,h3,h4,h5,h6 {
 .shadow {
   box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.18);
 }
+
+blockquote {
+  margin: 0;
+  font-style: italic;
+  padding: 0em 1em;
+  color: #aaaaaa;
+  border-left: 3px solid  #e9f0f0;
+}
