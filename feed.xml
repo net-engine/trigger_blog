@@ -6,9 +6,70 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 26 Oct 2016 15:22:31 +1000</pubDate>
-    <lastBuildDate>Wed, 26 Oct 2016 15:22:31 +1000</lastBuildDate>
+    <pubDate>Fri, 27 Jan 2017 10:25:50 +1000</pubDate>
+    <lastBuildDate>Fri, 27 Jan 2017 10:25:50 +1000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Trigger + Bugsnag = Better Together</title>
+        <description>&lt;p&gt;As many of you know, Trigger is the product of software development agency, NetEngine. We use Trigger every day and not surprisingly, a lot of the features (much like the conception of Trigger itself) were borne out of our own frustration, desire to cut out double handling, and improve processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.bugsnag.com/?utm_source=guest_blog&amp;amp;utm_medium=referral&amp;amp;utm_content=trigger_integration&amp;amp;utm_campaign=trigger_blog&amp;amp;utm_term=&quot;&gt;&lt;img src=&quot;/assets/bugsnag.png&quot; alt=&quot;bugsnag logo&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;One particular instance of this spurred our integration with &lt;a href=&quot;https://www.bugsnag.com/?utm_source=guest_blog&amp;amp;utm_medium=referral&amp;amp;utm_content=trigger_integration&amp;amp;utm_campaign=trigger_blog&amp;amp;utm_term=&quot;&gt;Bugsnag&lt;/a&gt;. At NetEngine, we heavily rely on Bugsnag to identify bugs during our software development lifecycle. I noticed a large inefficiency when creating a task in Trigger to solve an issue detected in Bugsnag. As Bugsnag gives you all the information needed, it was a matter of copy and paste to create the Trigger task. Hardly a function that requires a human brain.&lt;/p&gt;
+
+&lt;p&gt;Finally, I asked myself&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“What if we could create an integration with Bugsnag that created the Trigger task in one click?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I decided to ask support immediately and I soon received a reply from Dave at Bugsnag saying he would be happy to integrate with Trigger and he got straight to work. Very quickly the integration was live and ready to go on Bugsnag!&lt;/p&gt;
+
+&lt;p&gt;It was fantastic news! I was so excited to see the Trigger icon in the list of official integration services! I gave it the first test and the integration went off without a hitch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/integration-services.png&quot; alt=&quot;integration services&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;want-to-setup-the-integration-with-trigger-in-bugsnag&quot;&gt;Want to Setup the Integration with Trigger in Bugsnag?&lt;/h2&gt;
+
+&lt;p&gt;It’s easy!&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;You should navigate to into Bugsnag menu Settings -&amp;gt; (Project properties) -&amp;gt; Configure Integration&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then you will see list of available services, find Trigger (using cmd + F for example)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click on Trigger link, you will see configuration form
+  &lt;br /&gt;
+  &lt;br /&gt;
+  &lt;img style=&quot;max-width: 20em; width: 100%;&quot; alt=&quot;configure&quot; src=&quot;/assets/configure.png&quot; /&gt;
+  &lt;br /&gt;
+  &lt;strong&gt;URL:&lt;/strong&gt; it’s just the url to the Trigger API, like https://triggerapp.com/api/v1/
+  &lt;br /&gt;
+  &lt;strong&gt;User Token:&lt;/strong&gt; It’s your Trigger User Token (you can take it from your Trigger profile page &lt;a href=&quot;https://triggerapp.com/users/me&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;br /&gt;
+  &lt;strong&gt;Account Key:&lt;/strong&gt; It’s your Trigger Account Key (you can take it from your Trigger profile page as well)
+  &lt;br /&gt;
+  &lt;strong&gt;Project:&lt;/strong&gt; It’s just your existing project name under your account. For example, if can be ‘Bugfixing’ or ‘Production Issues’&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Click on TEST for connection testing and SAVE to save configuration!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Profit!&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Enjoy the integration!&lt;/p&gt;
+
+&lt;p&gt;Cheers,
+Sergey Aksyutin, NetEngine&lt;/p&gt;
+
+&lt;p&gt;If there’s an integration you’d like to see please contact our support team via &lt;a href=&quot;mailto:support@triggerapp.com&quot;&gt;support@triggerapp.com&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 27 Jan 2017 00:00:00 +1000</pubDate>
+        <link>http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Subtasks 101</title>

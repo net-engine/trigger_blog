@@ -5,13 +5,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Trigger Blog</title>
-  <meta name="description" content="Trigger Blog
-">
+  <title>Trigger + Bugsnag = Better Together</title>
+  <meta name="description" content="As many of you know, Trigger is the product of software development agency, NetEngine. We use Trigger every day and not surprisingly, a lot of the features (...">
 
   <link rel="stylesheet" href="/css/main.css">
   <link href="https://npmcdn.com/basscss@8.0.2/css/basscss.min.css" rel="stylesheet">
-  <link rel="canonical" href="http://blog.triggerapp.com/">
+  <link rel="canonical" href="http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/">
   <link rel="alternate" type="application/rss+xml" title="Trigger Blog" href="http://blog.triggerapp.com/feed.xml">
   <link href="/assets/favicon.ico" rel='shortcut icon' type='image/x-icon'>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css">
@@ -67,85 +66,68 @@
 </header> 
 
     </div>
-      <h1 class="mt4 light white center blue-bg p4">The Trigger Blog</h1>
+      <h1 class="mt4 light white center blue-bg p4">Trigger + Bugsnag = Better Together</h1>
 
-<div class="mx-auto max-width-3 p2">
+<div class="mx-auto max-width-3 p2 pb3">
   <div>
-    <div class="home">
-      <ul class="post-list list-reset">
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2017/01/trigger-and-bugsnag-better-together/">Trigger + Bugsnag = Better Together</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Jan 27, 2017</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2016/10/subtasks-101/">Subtasks 101</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Oct 25, 2016</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2016/09/recruit-smarter-with-trigger/">Recruit Smarter with Trigger</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Sep 15, 2016</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2016/08/feature-spotlight-the-contractor-role/">Feature Spotlight: The Contractor Role</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Aug 4, 2016</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2016/07/kanban-is-here/">Kanban is Here!</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Jul 15, 2016</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2016/07/ch-ch-ch-ch-changes/">Ch-ch-ch-ch-changes</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Jul 13, 2016</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2015/11/three-cool-things-you-didnt-know-trigger-could-do/">Three cool things you didn’t know Trigger could do</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Nov 3, 2015</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2015/04/trigger-has-now-more-invoice-templates/">Trigger now has more invoice templates</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Apr 22, 2015</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2015/04/feature-update-07-april-2015/">Feature Update 10 April 2015</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Apr 7, 2015</span>
-          </li>
-        
-          <li class="py3">
-            <h2 class="m0">
-              <a class="blue light text-decoration-none" href="/2014/11/trigger-is-now-free-for-60-days/">Trigger is now free for 60 days!</a>
-            </h2>
-            <span class="mt0 post-meta h6 italic grey">Nov 25, 2014</span>
-          </li>
-        
-      </ul>
-    </div>
+    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+      <span class="mt1 mb2 inline-block post-meta h6 italic grey">Jan 27, 2017</span>
+
+      <div class="post-content" itemprop="articleBody">
+        <p>As many of you know, Trigger is the product of software development agency, NetEngine. We use Trigger every day and not surprisingly, a lot of the features (much like the conception of Trigger itself) were borne out of our own frustration, desire to cut out double handling, and improve processes.</p>
+
+<p><a href="https://www.bugsnag.com/?utm_source=guest_blog&amp;utm_medium=referral&amp;utm_content=trigger_integration&amp;utm_campaign=trigger_blog&amp;utm_term="><img src="/assets/bugsnag.png" alt="bugsnag logo" /></a></p>
+
+<p>One particular instance of this spurred our integration with <a href="https://www.bugsnag.com/?utm_source=guest_blog&amp;utm_medium=referral&amp;utm_content=trigger_integration&amp;utm_campaign=trigger_blog&amp;utm_term=">Bugsnag</a>. At NetEngine, we heavily rely on Bugsnag to identify bugs during our software development lifecycle. I noticed a large inefficiency when creating a task in Trigger to solve an issue detected in Bugsnag. As Bugsnag gives you all the information needed, it was a matter of copy and paste to create the Trigger task. Hardly a function that requires a human brain.</p>
+
+<p>Finally, I asked myself</p>
+<blockquote>
+  <p>“What if we could create an integration with Bugsnag that created the Trigger task in one click?”</p>
+</blockquote>
+
+<p>I decided to ask support immediately and I soon received a reply from Dave at Bugsnag saying he would be happy to integrate with Trigger and he got straight to work. Very quickly the integration was live and ready to go on Bugsnag!</p>
+
+<p>It was fantastic news! I was so excited to see the Trigger icon in the list of official integration services! I gave it the first test and the integration went off without a hitch.</p>
+
+<p><img src="/assets/integration-services.png" alt="integration services" /></p>
+
+<h2 id="want-to-setup-the-integration-with-trigger-in-bugsnag">Want to Setup the Integration with Trigger in Bugsnag?</h2>
+
+<p>It’s easy!</p>
+<ol>
+  <li>You should navigate to into Bugsnag menu Settings -&gt; (Project properties) -&gt; Configure Integration</li>
+  <li>
+    <p>Then you will see list of available services, find Trigger (using cmd + F for example)</p>
+  </li>
+  <li>
+    <p>Click on Trigger link, you will see configuration form
+  <br />
+  <br />
+  <img style="max-width: 20em; width: 100%;" alt="configure" src="/assets/configure.png" />
+  <br />
+  <strong>URL:</strong> it’s just the url to the Trigger API, like https://triggerapp.com/api/v1/
+  <br />
+  <strong>User Token:</strong> It’s your Trigger User Token (you can take it from your Trigger profile page <a href="https://triggerapp.com/users/me" target="_blank">here</a><br />
+  <strong>Account Key:</strong> It’s your Trigger Account Key (you can take it from your Trigger profile page as well)
+  <br />
+  <strong>Project:</strong> It’s just your existing project name under your account. For example, if can be ‘Bugfixing’ or ‘Production Issues’</p>
+  </li>
+  <li>
+    <p>Click on TEST for connection testing and SAVE to save configuration!</p>
+  </li>
+  <li>Profit!</li>
+</ol>
+
+<p>Enjoy the integration!</p>
+
+<p>Cheers,
+Sergey Aksyutin, NetEngine</p>
+
+<p>If there’s an integration you’d like to see please contact our support team via <a href="mailto:support@triggerapp.com">support@triggerapp.com</a></p>
+
+
+      </div>
+    </article>
   </div>
 </div>
  
