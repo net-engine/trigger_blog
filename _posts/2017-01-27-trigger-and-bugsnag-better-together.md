@@ -2,7 +2,7 @@
 layout: post
 title: Trigger + Bugsnag = Better Together
 ---
-
+_Guest blog by **Sergey Aksyutin from NetEngine**_
 
 As many of you know, Trigger is the product of software development agency, NetEngine. We use Trigger every day and not surprisingly, a lot of the features (much like the conception of Trigger itself) were borne out of our own frustration, desire to cut out double handling, and improve processes.
 
@@ -32,7 +32,7 @@ It’s easy!
   <br/>
   **URL:** it’s just the url to the Trigger API, like https://triggerapp.com/api/v1/
   <br/>
-  **User Token:** It’s your Trigger User Token (you can take it from your Trigger profile page <a href="https://triggerapp.com/users/me" target="_blank">here</a><br/>
+  **User Token:** It’s your Trigger User Token (you can take it from your Trigger profile page <a href="https://triggerapp.com/users/me" target="_blank">here</a><br/>)
   **Account Key:** It’s your Trigger Account Key (you can take it from your Trigger profile page as well)
   <br/>
   **Project:** It’s just your existing project name under your account. For example, if can be 'Bugfixing' or 'Production Issues'
@@ -44,7 +44,7 @@ It’s easy!
 Enjoy the integration!
 
 Cheers,
-Sergey Aksyutin, NetEngine
+Sergey
 
 If there’s an integration you’d like to see please contact our support team via <a href="mailto:support@triggerapp.com">support@triggerapp.com</a>
 
