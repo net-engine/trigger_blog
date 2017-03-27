@@ -1,16 +1,26 @@
 ---
 layout: default
 ---
-<h1 class="mt4 light white center blue-bg p4">{{ page.title }}</h1>
+<div class="background background-20 blue-bg">
+  <div class="artwork"></div>
+</div>
 
-<div class="mx-auto max-width-3 p2 pb3">
-  <div>
+<div class="mx-auto max-width-4">
+  <h1 class="mt4 light white pt4">{{ page.title }}</h1>
+  <div class="white-bg p3 pb3 mt3">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-      <span class="mt1 mb2 inline-block post-meta h6 italic grey">{{ page.date | date: "%b %-d, %Y" }}</span>
-
       <div class="post-content" itemprop="articleBody">
         {{ content }}
       </div>
     </article>
+  </div>
+  <div class="mt2 mb2">
+    <div class="avatar mr2">
+      <img src="{{ page.avatar }}" />
+    </div>
+    <div class="author-content">
+      <p class="light black pb0 mb0">{{ page.date | date: "%d %B, %Y" }}</p>
+      <h4 class="black mt0">By {{ page.author }}</h4>
+    </div>
   </div>
 </div>
