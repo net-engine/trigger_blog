@@ -36,17 +36,6 @@ p {
 article img {
   max-width: 100%;
 }
-
-footer svg * { stroke: #efefef !important }
-
-footer svg {
-  position: absolute;
-  bottom: 1.5em;
-  right: 1.5em;
-  left: 1.5em;
-  width: calc(100% - 3em);
-  z-index: -1;
-}
     
 .blue { color: #0070ff }
 .blue-bg { background-color: #0070ff }
@@ -56,6 +45,7 @@ footer svg {
 .grey{ color: #aaa; }
 .dark-grey{ color: #999; }
 .grey-bg { background-color: #aaa }
+.dark-blue-bg { background: #0054bf; }
 
 .light { font-weight: 300 }
 
@@ -202,4 +192,84 @@ a.subscribe {
 .avatar img {
   border-radius: 50%;
   max-height: 100%;
+}
+
+.color-off-white, .link-off-white {
+  color: #f9fafa;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.spaced {
+  letter-spacing: 0.15em;
+}
+
+.opacity-5, .hover-color {
+  opacity: 0.5;
+}
+
+.opacity-6 {
+  opacity: 0.6;
+}
+
+.opacity-7 {
+  opacity: 0.7;
+}
+
+footer {
+  bottom: 0;
+  display: block;
+  clear: both;
+}
+
+footer a, footer a:active, footer a:visited {
+  text-decoration: none;
+  font-weight: 100;
+  font-size: 100%;
+  line-height: 1.5rem;
+  color: inherit;
+}
+
+footer .h4 {
+  font-size: 0.75rem;
+}
+
+.link-off-white {
+  white-space: nowrap;
+}
+
+.social-icon {
+  color: #abc6e7;
+  display: block;
+  border-radius: 50%;
+  box-shadow: inset 0 0 0 0.15rem currentColor;
+  padding: 1rem;
+}
+
+.asset-social-twitter {
+  background-image: url(https://d1840jcgfa68oo.cloudfront.net/assets/landing_pages/twitter-875547c177a18fab5e34e2a61fdf9f82.svg);
+}
+
+.asset-social-facebook {
+  background-image: url(https://d1840jcgfa68oo.cloudfront.net/assets/landing_pages/facebook-4f77197d0ff295700507cb5db78f7fc2.svg);
+}
+
+.asset-social-facebook {
+  background-image: url(https://d1840jcgfa68oo.cloudfront.net/assets/landing_pages/facebook-4f77197d0ff295700507cb5db78f7fc2.svg);
+}
+
+.asset-social-linkedin {
+  background-image: url(https://d1840jcgfa68oo.cloudfront.net/assets/landing_pages/linkedin-bc3bb12a3e357e0c74caf37556294cf4.svg);
+}
+
+.asset-social, .asset-social-googleplus, .asset-social-facebook, .asset-social-twitter, .asset-social-linkedin {
+  background-size: 40% 40%;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
+
+.min-height-100 {
+  min-height: calc(100vh - 25rem);
 }
