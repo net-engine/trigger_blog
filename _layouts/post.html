@@ -9,7 +9,7 @@ layout: default
   <h1 class="mt4 light white pt4">{{ page.title }}</h1>
   <div class="white-bg p3 pb3 mt3">
     <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-      <div class="post-content" itemprop="articleBody">
+      <div class="post-content dark-grey" itemprop="articleBody">
         {{ content }}
       </div>
     </article>
@@ -19,8 +19,8 @@ layout: default
       <img src="{{ page.avatar }}" />
     </div>
     <div class="author-content">
-      <p class="light black pb0 mb0">{{ page.date | date: "%d %B, %Y" }}</p>
-      <h4 class="black mt0">By {{ page.author }}</h4>
+      <p class="light dark-grey pb0 mb0">{{ page.date | date: "%d %B, %Y" }}</p>
+      <h4 class="dark-grey mt0">By {{ page.author }}</h4>
     </div>
   </div>
 </div>
