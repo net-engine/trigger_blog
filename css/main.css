@@ -47,7 +47,7 @@ article img {
 .grey-bg { background-color: #aaa }
 .dark-blue-bg { background: #0054bf; }
 
-.light { font-weight: 300 }
+.light { font-weight: 200 }
 
 p.light { font-weight: 100; }
 
@@ -93,6 +93,12 @@ pre {
 h1,h2,h3,h4,h5,h6 {
   font-weight: 300;
   margin: 1.5em 0;
+}
+
+.button {
+  border-radius: 8rem;
+  padding: 1rem 2rem;
+  text-decoration: none;
 }
 
 .shadow {
@@ -233,7 +239,8 @@ footer a, footer a:active, footer a:visited {
 }
 
 footer .h4 {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
+  font-weight: 100;
 }
 
 .link-off-white {
