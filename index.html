@@ -7,20 +7,22 @@ layout: default
 
 <div class="mx-auto max-width-4 p2 min-height-100">
   <div>
-    <div class="home">
+    <div class="home clearfix">
       <div class="post-card-latest ml3 p2 mt4">
-        <div class="hero-image m0">
-          <div class="center">
-            <img src="{{ site.posts.first.image }}">
+        <a class="text-decoration-none" href="{{ site.posts.first.url | prepend: site.baseurl }}">
+          <div class="hero-image m0">
+            <div class="center">
+              <img src="{{ site.posts.first.image }}">
+            </div>
           </div>
-        </div>
-        <h2 class="m0 mt2">
-          <a class="dark-grey light text-decoration-none" href="{{ site.posts.first.url | prepend: site.baseurl }}">{{ site.posts.first.title | escape }}</a>
-        </h2>
-        <p class="light grey">{{ site.posts.first.content | strip_html | truncatewords: 25 }}</p>
+          <h2 class="m0 mt2 dark-grey light">
+            {{ site.posts.first.title | escape }}
+          </h2>
+          <p class="light grey">{{ site.posts.first.content | strip_html | truncatewords: 25 }}</p>
+        </a>
       </div>
       <div class="post-card-subscribe ml3 p2 mt4">
-        <h2 class="m0 mt2 dark-grey">Want our new posts?</h2>
+        <h2 class="m0 mt2 dark-grey light">Want our new posts?</h2>
         <p class="light grey mt3 mb3">
           If you’d love to improve your productivity and profits, you’re in the right place! Subscribe today and we’ll deliver new posts direct to your inbox.
         </p>
@@ -29,20 +31,27 @@ layout: default
       {% for post in site.posts %}
         {% if post == site.posts.first %}
         {% else %}
-        <div class="post-card ml3 p0 mt3">
-          <div class="hero-image m0">
-            <div class="center">
-              <img src="{{ post.thumb }}">
-            </div>
+          <div class="post-card ml3 p0 mt3">
+            <a class="text-decoration-none" href="{{ post.url | prepend: site.baseurl }}">
+              <div class="hero-image m0">
+                <div class="center">
+                  <img src="{{ post.thumb }}">
+                </div>
+              </div>
+              <h2 class="m0 pl2 pr2 dark-grey light">
+                {{ post.title | escape }}
+              </h2>
+              <p class="light grey pl2 pr2">{{ post.content | strip_html | truncatewords: 18 }}</p>
+            </a>
           </div>
-          <h2 class="m0 pl2 pr2">
-            <a class="dark-grey light text-decoration-none" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-          </h2>
-          <p class="light grey pl2 pr2">{{ post.content | strip_html | truncatewords: 18 }}</p>
-        </div>
         {% endif %}
       {% endfor %}
     </div>
+    <div class="center mt4 mb4 pt4">
+      <a href="https://triggerapp.com/signups/new" class="button blue-bg white light">Try a 30 day risk-free trial</a>
+      <div class="mt3 mb5">
+        <p class="light grey">No credit card required</p>
+      </div>
+    </div>
   </div>
 </div>
-

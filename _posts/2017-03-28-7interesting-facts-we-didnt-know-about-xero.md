@@ -72,10 +72,12 @@ But even die-hard Xero fans like us can’t keep up with this phenomenal New Zea
 
 &nbsp;
 
-&nbsp;
-
 Xero fans - how many of these did you know? 
 
 Xero newcomers - if you’re not already using Xero, you’re missing out on the fun. 
 
 [Check Xero out today](http://www.kqzyfj.com/2p98y1A719PYSZQQWTPRSTYXUVQ){:target="_blank"}
+
+### Update: 30 March 2017 AU ###
+
+Xero announced today that they passed 1 million subscribers worldwide. Congrats guys!
