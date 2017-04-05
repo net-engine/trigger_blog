@@ -15,14 +15,14 @@ layout: default
               <img src="{{ site.posts.first.image }}">
             </div>
           </div>
-          <h2 class="m0 mt2 dark-grey light">
+          <h3 class="m0 mt2 dark-grey light">
             {{ site.posts.first.title | escape }}
-          </h2>
+          </h3>
           <p class="light grey">{{ site.posts.first.content | strip_html | truncatewords: 25 }}</p>
         </a>
       </div>
       <div class="post-card-subscribe ml3 p2 mt4">
-        <h2 class="m0 mt2 dark-grey light">Want our new posts?</h2>
+        <h3 class="m0 mt2 dark-grey light">Want our new posts?</h3>
         <p class="light grey mt3 mb3">
           If you’d love to improve your productivity and profits, you’re in the right place! Subscribe today and we’ll deliver new posts direct to your inbox.
         </p>
@@ -38,10 +38,10 @@ layout: default
                   <img src="{{ post.thumb }}">
                 </div>
               </div>
-              <h2 class="m0 pl2 pr2 dark-grey light">
+              <h3 class="mt2 mb0 pl2 pr2 dark-grey light">
                 {{ post.title | escape }}
-              </h2>
-              <p class="light grey pl2 pr2">{{ post.content | strip_html | truncatewords: 18 }}</p>
+              </h3>
+              <p class="light grey pl2 pr2">{{ post.content | strip_html | truncatewords: 17 }}</p>
             </a>
           </div>
         {% endif %}
