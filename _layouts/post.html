@@ -22,5 +22,30 @@ layout: default
       <p class="light dark-grey pb0 mb0">{{ page.date | date: "%d %B, %Y" }}</p>
       <h4 class="dark-grey mt0">By {{ page.author }}</h4>
     </div>
+    <div class="share-buttons pull-right">
+      <p class="dark-grey mt0 mb0">
+        <span class="ml1 mr2">Share</span>
+        <a class="dark-grey" href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank">
+          <i class="fa fa-facebook"></i>
+        </a>
+        <a class="dark-grey" href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank">
+          <i class="fa fa-twitter"></i>
+        </a>
+        <a class="dark-grey" href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.url }}{{ page.url }}&title={{ page.title }}&summary={{ page.content | strip_html | truncatewords: 17 }}" rel="nofollow" target="_blank">
+          <i class="fa fa-linkedin"></i>
+        </a>
+        <a class="dark-grey" href="mailto:?subject={{ page.title }}&amp;body=Check out {{ site.url }}{{ page.url }}">
+          <i class="fa fa-envelope"></i>
+        </a>
+      </p>
+      <p class="center mt0">
+        <a class="button blue-bg white subscribe-now">
+          <i class="fa fa-inbox"></i>
+          Subscribe to Blog
+        </a>
+      </p>
+    </div>
   </div>
 </div>
+
+
