@@ -194,7 +194,7 @@ a.subscribe {
   top: 1.23rem;
 }
 
-.avatar, .author-content {
+.avatar, .author-content, .share-buttons {
   display: inline-block;
   height: 5rem;
   vertical-align: top;
@@ -288,4 +288,18 @@ footer .h4 {
 
 .min-height-100 {
   min-height: calc(100vh - 25rem);
+}
+
+.share-buttons {
+  font-weight: 200;
+}
+
+.share-buttons a {
+  display: inline-block;
+  padding: 0.5rem;
+}
+
+.share-buttons a.subscribe-now {
+  border-radius: 0.2rem;
+  padding: 0.5rem 1rem;
 }
