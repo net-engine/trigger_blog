@@ -15,6 +15,8 @@ But even for the most modern and successful company, this is still a very brave 
 
 Plus, “It’s damn hard to write about what’s not working,” says Paul Towers, founder of project productivity app, [Task Pigeon](http://blog.taskpigeon.co/three-things-struggling-founder/){:target="_blank"}. “It makes you confront your fears, question what you are doing and figure out your next steps while sharing your story with the world.”
 
+&nbsp;
+
 ## Why do it? ##
 
 “[Transparency is the new marketing](https://www.quicksprout.com/2015/01/12/how-transparency-is-the-new-marketing/){:target="_blank"}” says Neil Patel of Quicksprout (and formerly of KISSmetrics). “Being open about your business is a great way to gain people’s trust and loyalty. By sharing problems you may be facing, or by sharing your financial numbers (whether they are good or bad) will help you build a larger following. And with that following, you’ll be able to convert more of your visitors into customers.”
@@ -27,11 +29,13 @@ Other reasons include:
 - Opportunities - the more you put yourself out there, the more chance that new customers, partners and investors will find you
 - Inspiration - if you’ve won some hard-earned battles, you may like to share your lessons learned and inspire others on their journey
 
+&nbsp;
 
 ## 7 Businesses Who Share ##
 
 We take our hats off to seven businesses who courageously share their revenue metrics and startup journeys for us to learn from:
 
+&nbsp;
 
 ### 1. Hubstaff ###
 
@@ -41,6 +45,7 @@ Hubstaff co-founder Dave Nevogt tells all in [Hubstaff’s growth story](http://
 
 Hubstaff offers time tracking software (similar to our time tracking and project management software at [Trigger](https://www.triggerapp.com/){:target="_blank"}) which is perfect for remote and distributed teams who collaborate on projects. And time tracking is perhaps the best example of company transparency there is, because there’s nowhere to hide when your hours and productivity is being tracked, right?
 
+&nbsp;
 
 ### 2. Buffer ###
 
@@ -56,12 +61,15 @@ Even when times got tough in June 2016 and Buffer’s CEO Joel Gascoigne had to 
 
 How many other CEOs transparently own up to mistakes, versus sweep their bad news under the carpet?
 
+&nbsp;
 
 ### 3. Groove ###
 
 Groove offers helpdesk software for small businesses and its founder Alex Turnbull passionately blogs about his [startup journey and revenue](https://www.groovehq.com/blog/startup-journey){:target="_blank"}. From learning growth tactics to producing online courses, and from writing VIP email scripts to managing remote teams, Alex openly shares everything on his tell-all blog, which is Groove’s number one driver of new customers to their business.
 
 ![Groove](/assets/7-business-metrics/Groove%20metrics.png)
+
+&nbsp;
 
 ### 4. Baremetrics, ConvertKit and Ghost ###
 
@@ -71,13 +79,19 @@ Baremetrics is an analytics and insights platform that shares it’s ‘live’ 
 
 But not only does the company cleverly use its platform to share it’s own metrics, it also makes it easy for their customers to do the same. Their [Open Startups](https://baremetrics.com/open){:target="_blank"} section shares data from companies such as ConvertKit and Ghost, who’ve opted into the transparency ride.
 
+&nbsp;
+
 [ConvertKit](https://convertkit.com/){:target="_blank"} is a hugely successful company which offers email marketing for professional bloggers. Baremetrics reports show that ConvertKit currently makes US$627,990 MRR, which is an incredible achievement given how many email marketing products are on the market.
 
 ![ConvertKit](/assets/7-business-metrics/ConvertKit%20metrics.png)
 
+&nbsp;
+
 [Ghost](https://ghost.org/){:target="_blank"} is a non-profit organisation which offers open source, professional publishing platform. Baremetrics reports shows that Ghost currently generates an impressive US$56,686 MRR.
 
 ![Ghost](/assets/7-business-metrics/Ghost%20metrics.png)
+
+&nbsp;
 
 ### 5. Pinch of Yum ###
 
@@ -87,11 +101,15 @@ Cue Lindsay and Bjork Ostrom, food bloggers who openly share [their monthly inco
 
 ![Pinch of Yum](/assets/7-business-metrics/Pinch%20of%20Yum.png)
 
+&nbsp;
+
 ## Want to see more? ##
 
 If you’d love to read more case studies, check out Anil Agarwal’s [BloggersPassion](https://bloggerspassion.com/bloggers-income-report-how-much-money-do-top-bloggers-make-and-how/){:target="_blank"} summary, where he links to Pinch of Yum bloggers Lindsay and Bjork, as well as ten more sources of income report inspiration:
 
 ![BloggersPassion](/assets/7-business-metrics/https_bloggerspassion.com_bloggers-income-report-how-much-money-do-top-bloggers-make-and-how_.png)
+
+&nbsp;
 
 ## What is Trigger? ##
 
