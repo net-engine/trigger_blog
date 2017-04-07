@@ -15,6 +15,8 @@
   <link rel="alternate" type="application/rss+xml" title="Trigger Blog" href="http://blog.triggerapp.com/feed.xml">
   <link href="/assets/favicon.ico" rel='shortcut icon' type='image/x-icon'>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.2.0/normalize.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="/js/main.js"></script>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -66,6 +68,16 @@
 
 <a href="http://triggerapp.com" class="btn blue-bg white inline-block right"> Back to trigger </a>
 </header> 
+
+      <form action="http://1978f794.ngrok.io/blog_subscriptions" method="post" class="modal">
+  <div>
+    <a href="#close" title="Close" class="close js-modal-toggle">X</a>
+    <p class="mt0">
+      <input id="email" name="email" type="email" class="form-control" placeholder="Enter your email address"/>
+    </p>
+    <input class="subscribe blue-bg w100" type="submit" value="Subscribe">
+  </div>
+</form>
 
     </div>
       <div class="background background-20 blue-bg">
@@ -176,7 +188,7 @@
         </a>
       </p>
       <p class="center mt0">
-        <a class="button blue-bg white subscribe-now">
+        <a href='#' class="button blue-bg white subscribe-now js-modal-toggle">
           <i class="fa fa-inbox"></i>
           Subscribe to Blog
         </a>
