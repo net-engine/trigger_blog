@@ -6,9 +6,112 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 11 Apr 2017 07:44:14 +0700</pubDate>
-    <lastBuildDate>Tue, 11 Apr 2017 07:44:14 +0700</lastBuildDate>
+    <pubDate>Wed, 19 Apr 2017 08:42:57 +0700</pubDate>
+    <lastBuildDate>Wed, 19 Apr 2017 08:42:57 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>10 Reasons why Trigger is the Best Alternative to Asana</title>
+        <description>&lt;p&gt;With &lt;a href=&quot;https://www.crunchbase.com/organization/asana#/entity&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;US$88.3 million&lt;/a&gt; in funding from some of Silicon Valley’s most high profile investors, Asana is undeniably one of the biggest guns of the project management world. But with so many customer needs and nuances, it’s hard for Asana to be the best project management solution for everyone. What works for Asana’s billion-dollar American customers such as Airbnb, Uber and Pinterest, might not work for small creative agencies in Canada, medium-sized marketing consultancies in Spain or one-person PR agencies in the United Kingdom.&lt;/p&gt;
+
+&lt;p&gt;If you’re looking for a project management app that helps you better manage your projects and stop overservicing your customers, you’ve landed in the right place.&lt;/p&gt;
+
+&lt;p&gt;Here are ten reasons why we think &lt;a href=&quot;https://www.triggerapp.com/&quot; target=&quot;_blank&quot;&gt;Trigger&lt;/a&gt; (homegrown in Brisbane, Australia) is the best alternative to Asana (headquartered in San Francisco, United States).&lt;/p&gt;
+
+&lt;h2 id=&quot;built-in-time-tracking&quot;&gt;1. Built-in time tracking&lt;/h2&gt;
+
+&lt;p&gt;Project management only takes you so far. It’s time-tracking against project tasks that shows a business owner (or project manager) exactly what’s going on in the business and how much time it really takes to service each client.&lt;/p&gt;
+
+&lt;p&gt;This is important because, too often, small and medium sized agencies and consultancies are too “nice” and end up overservicing clients because they’re not accurately tracking how much time it takes to complete actual tasks. Sound familiar?&lt;/p&gt;
+
+&lt;p&gt;For a business owner or project manager, time tracking can mean the difference between losing money, breaking even or making a profit.&lt;/p&gt;
+
+&lt;p&gt;Trigger has always had built-in time tracking. Asana hasn’t, so Asana announced a partnership with Harvest a few years ago, where you can add a Harvest timer into your Asana task panel to track time against Asana tasks. The downside of this arrangement is that you’ll need to pay for two services (Asana plus Harvest) rather than one service (Trigger).&lt;/p&gt;
+
+&lt;h2 id=&quot;built-in-invoicing&quot;&gt;2. Built-in invoicing&lt;/h2&gt;
+
+&lt;p&gt;Trigger has built-in invoicing functionality, because we think it’s logical that you create your client invoices where all of your client tasks and timesheets are managed.&lt;/p&gt;
+
+&lt;p&gt;Asana, on the other hand, does not have in-built invoicing. To counter this, you’ll likely need to pay for an add-on service to Asana (that either integrates with Asana or connects via Zapier).&lt;/p&gt;
+
+&lt;h2 id=&quot;ability-to-easily-switch-between-kanban-and-task-list-views-for-every-project&quot;&gt;3. Ability to easily switch between Kanban and Task List views for every project&lt;/h2&gt;
+
+&lt;p&gt;Both Trigger and Asana offer Kanban views.&lt;/p&gt;
+
+&lt;p&gt;The difference between the two solutions however is that in Trigger, you can easily switch between Kanban and Task List views for a project at any time.&lt;/p&gt;
+
+&lt;p&gt;Whereas with Asana, you must choose if you want the Kanban or Task List view at the time you create the project. Then forever after, you are only able to be see that specific project in that one specific view type.&lt;/p&gt;
+
+&lt;h2 id=&quot;better-ability-to-manage-your-email-notifications&quot;&gt;4. Better ability to manage your email notifications&lt;/h2&gt;
+
+&lt;p&gt;One complaint about Asana is their &lt;a href=&quot;https://www.brainstormforce.com/asana-at-brainstorm-10-things-we-love-and-5-things-we-hate/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;overload of email notifications&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In Asana, you can set your email notifications to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Task reminders&lt;/li&gt;
+  &lt;li&gt;All activity&lt;/li&gt;
+  &lt;li&gt;Weekly dashboard&lt;/li&gt;
+  &lt;li&gt;Snooze for 1 hour at a time&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In Trigger, you can set your email notifications to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Real time updates&lt;/li&gt;
+  &lt;li&gt;Group updates every five minutes&lt;/li&gt;
+  &lt;li&gt;Daily updates&lt;/li&gt;
+  &lt;li&gt;No updates (unless you are @mentioned, so you don’t miss something important)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In Trigger, you also have greater control over email notifications because you can better specify user roles - and therefore who needs to receive each email notification.&lt;/p&gt;
+
+&lt;h2 id=&quot;ability-to-specify-user-roles-per-task&quot;&gt;5. Ability to specify user roles per task&lt;/h2&gt;
+
+&lt;p&gt;“Although Asana allows to keep tasks public or private, it does not let you set user roles within a team or an organization on the whole.” &lt;a href=&quot;https://www.brainstormforce.com/asana-at-brainstorm-10-things-we-love-and-5-things-we-hate/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In Trigger, you have a project owner (who you can change at any time), an assignee for each task (who you can also change at any time) and watchers to a task (which you can add or remove at any time, depending on the stage of the task and who you would like to remain involved in that specific task).&lt;/p&gt;
+
+&lt;p&gt;This means that in Trigger, the ability to specify user roles per task also gives you greater control over who receives email notifications and updates to tasks.&lt;/p&gt;
+
+&lt;h2 id=&quot;optional-ability-to-show-clients-their-billable-info-target-hours-and-logged-hours&quot;&gt;6. Optional ability to show clients their billable info, target hours and logged hours&lt;/h2&gt;
+
+&lt;p&gt;Thanks to a great suggestion by some of our customers, we recently added the optional ability to show clients their billable information, target hours and logged hours.&lt;/p&gt;
+
+&lt;p&gt;Customers who opt for this greater transparency can either choose ‘all clients’ or they can choose which specific clients they would like to be able to see this extra information.&lt;/p&gt;
+
+&lt;p&gt;Note: Billable information is only the amounts that our customers bill to their clients. It is not internal employee salary information.&lt;/p&gt;
+
+&lt;h2 id=&quot;xero-integration&quot;&gt;7. Xero integration&lt;/h2&gt;
+
+&lt;p&gt;Unlike Asana, Trigger talks nicely to Xero, so your time tracking meets your invoicing in one click - and you never have to double-handle an invoice again!&lt;/p&gt;
+
+&lt;p&gt;No Xero account yet? &lt;a href=&quot;http://www.kqzyfj.com/2p98y1A719PYSZQQWTPRSTYXUVQ&quot; target=&quot;_blank&quot;&gt;Try Xero for free&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;basecamp-integration&quot;&gt;8. Basecamp integration&lt;/h2&gt;
+
+&lt;p&gt;Unlike Asana, Trigger integrates with Basecamp, so you can quickly import your Basecamp to-do lists, to-dos and comments and make your transition from Basecamp as painless as possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;bugsnag-integration&quot;&gt;9. Bugsnag integration&lt;/h2&gt;
+
+&lt;p&gt;For our software developer customers, Trigger (unlike Asana) also integrates with Bugsnag. This means that issues found in Bugsnag are automatically added as tasks in Trigger, so important software issues never slip through the cracks.&lt;/p&gt;
+
+&lt;p&gt;See more integrations &lt;a href=&quot;https://www.triggerapp.com/integrations-all&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;ability-to-adapt-quickly-to-customer-requests&quot;&gt;10. Ability to adapt quickly to customer requests&lt;/h2&gt;
+
+&lt;p&gt;Unlike some of the giants in the project management industry, our lean structure at Trigger enables us to be incredibly agile so we can adapt quickly to customer requests. We’re adding customer-requested features and improvements all the time, so please don’t be shy. If have a good idea and you think we should so something about it, we’d love to hear from you here.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/compare-asana/compare_table.png&quot; alt=&quot;Trigger vs. Asana&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Apr 2017 00:00:00 +0700</pubDate>
+        <link>http://blog.triggerapp.com/2017/04/10-reasons-why-trigger-is-the-best-alternative-to-asana/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2017/04/10-reasons-why-trigger-is-the-best-alternative-to-asana/</guid>
+        
+        
+      </item>
     
       <item>
         <title>Has your business lost its Mojo?</title>
