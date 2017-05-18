@@ -29,7 +29,7 @@ layout: default
         <a href="#" class="subscribe mt4 js-modal-toggle">Subscribe today</a>
       </div>
       {% for post in site.posts %}
-        {% if post == site.posts.first %}
+        {% if post == site.posts.first or post.redirected %}
         {% else %}
           <div class="post-card ml3 p0 mt3">
             <a class="text-decoration-none" href="{{ post.url | prepend: site.baseurl }}">
