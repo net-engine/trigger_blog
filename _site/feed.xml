@@ -6,8 +6,8 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 21 Apr 2017 07:48:22 +0700</pubDate>
-    <lastBuildDate>Fri, 21 Apr 2017 07:48:22 +0700</lastBuildDate>
+    <pubDate>Thu, 18 May 2017 08:12:35 +0700</pubDate>
+    <lastBuildDate>Thu, 18 May 2017 08:12:35 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -488,6 +488,26 @@
         <pubDate>Tue, 28 Mar 2017 00:00:00 +0700</pubDate>
         <link>http://blog.triggerapp.com/2017/03/7interesting-facts-we-didnt-know-about-xero/</link>
         <guid isPermaLink="true">http://blog.triggerapp.com/2017/03/7interesting-facts-we-didnt-know-about-xero/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Trigger + Bugsnag = Better Together</title>
+        <description>&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
+&lt;html lang=&quot;en-US&quot;&gt;
+&lt;meta charset=&quot;utf-8&quot; /&gt;
+&lt;title&gt;Redirecting…&lt;/title&gt;
+&lt;link rel=&quot;canonical&quot; href=&quot;http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot; /&gt;
+&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0; url=http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot; /&gt;
+&lt;h1&gt;Redirecting…&lt;/h1&gt;
+&lt;a href=&quot;http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot;&gt;Click here if you are not redirected.&lt;/a&gt;
+&lt;script&gt;location=&quot;http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot;&lt;/script&gt;
+&lt;/html&gt;
+</description>
+        <pubDate>Fri, 27 Jan 2017 00:00:00 +0700</pubDate>
+        <link>http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/</guid>
         
         
       </item>
