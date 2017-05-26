@@ -91,7 +91,7 @@ See more integrations [here](https://www.triggerapp.com/integrations-all){:targe
 
 ## 10. Ability to adapt quickly to customer requests ##
 
-Unlike some of the giants in the project management industry, our lean structure at Trigger enables us to be incredibly agile so we can adapt quickly to customer requests. We’re adding customer-requested features and improvements all the time, so please don’t be shy. If have a good idea and you think we should so something about it, we’d love to hear from you here.
+Unlike some of the giants in the project management industry, our lean structure at Trigger enables us to be incredibly agile so we can adapt quickly to customer requests. We’re adding customer-requested features and improvements all the time, so please don’t be shy. If have a good idea and you think we should so something about it, we’d love to hear from you [here](mailto:support@triggerapp.com).
 
 &nbsp;
 
