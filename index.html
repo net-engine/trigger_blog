@@ -18,7 +18,11 @@ layout: default
           <h3 class="m0 mt2 dark-grey light">
             {{ site.posts.first.title | escape }}
           </h3>
-          <p class="light grey">{{ site.posts.first.content | strip_html | truncatewords: 25 }}</p>
+          {% if site.posts.first.abbreviation == '' or site.posts.first.abbreviation == nil %}
+            <p class="light grey">{{ site.posts.first.content | strip_html | truncatewords: 24 }}</p>
+          {% else %}
+            <p class="light grey">{{ site.posts.first.abbreviation | truncatewords: 24 }}</p>
+          {% endif %}
         </a>
       </div>
       <div class="post-card-subscribe ml3 p2 mt4">
@@ -41,7 +45,11 @@ layout: default
               <h3 class="mt2 mb0 pl2 pr2 dark-grey light">
                 {{ post.title | escape }}
               </h3>
-              <p class="light grey pl2 pr2">{{ post.content | strip_html | truncatewords: 17 }}</p>
+              {% if post.abbreviation == '' or post.abbreviation == nil %}
+                <p class="light grey pl2 pr2">{{ post.content | strip_html | truncatewords: 16 }}</p>
+              {% else %}
+                <p class="light grey pl2 pr2">{{ post.abbreviation | truncatewords: 16 }}</p>
+              {% endif %}
             </a>
           </div>
         {% endif %}

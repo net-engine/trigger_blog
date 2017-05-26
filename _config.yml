@@ -2,7 +2,7 @@
 gems:
   - octopress-autoprefixer
   - jekyll-redirect-from
-port: 4001
+port: 4000
 title: Trigger Blog
 email: support@triggerapp.com
 description: > # this means to ignore newlines until "baseurl:"

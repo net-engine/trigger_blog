@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 7 Dilbert Videos That Prove You Need Project Management
-image: /assets/hero/dilbert.png
-thumb: /assets/hero/dilbert-thumb.png
+image: /assets/hero/7-dilbert-videos.png
+thumb: /assets/hero/7-dilbert-videos-thumb.png
 author: Andrea Martins
 avatar: /assets/avatars/andrea.jpg
 ---
@@ -21,6 +21,7 @@ But it’s amazing how many business owners skimp on project management tools, i
 
 If you’re a small business owner who is not convinced you need a project management system because you only have a small or medium-sized business, we’ve mustered seven [Dilbert](http://dilbert.com/){:target="_blank"} videos by the legendary Scott Adams, to help prove why you need project management software - even when you’re just starting out and your business is small.
 
+&nbsp;
 
 ## 1. Dilbert: The Business Plan of Profitability ##
 
@@ -30,6 +31,8 @@ Dilbert knows that. That’s why he delivers a ridiculous pitch to his bosses ab
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lll_tvYWFUo" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
+
 ## 2. Designed to Fail ##
 
 Similar to writing your business plan, how can you estimate (or justify to your boss) an accurate budget for what you need for your project, if you don’t use time tracking or a project management tool to give you insights about how your business is currently performing?
@@ -38,6 +41,7 @@ One common piece of feedback we hear from our customers is that they have a tend
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FMnKuZ3jVJ8" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
 
 ## 3. Dilbert: Management Coordination ##
 
@@ -47,6 +51,7 @@ Whether teams admit it or not, it’s much easier to keep everyone on the same p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D5MZmni7-6I" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
 
 ## 4. Dilbert: Changes ##
 
@@ -60,6 +65,7 @@ Because ultimately, conversations are one thing, but setting deadlines assigned 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aOC8G744MLc" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
 
 ## 5. Dilbert: Waiting for the Word ##
 
@@ -69,6 +75,7 @@ If you’re using a project management system where every single task is logged 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ktm0xde_p-Q" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
 
 ## 6. Dilbert: Vicious Cycle ##
 
@@ -82,6 +89,7 @@ Tools like [Trigger](https://www.triggerapp.com/){:target="_blank"} can also let
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gc9e_6emT6c" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
 
 ## 7. Dilbert: Only the Things that Matter ##
 
@@ -95,9 +103,12 @@ Sound good?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ckhv4F_NcH8" frameborder="0" allowfullscreen></iframe>
 
+&nbsp;
 
 ## Want more Dilbert? ##
 
-If you enjoyed these Dilbert videos, there’s a treasure trove of Dilbert workplace videos on the Dilbert YouTube channel [here](https://www.youtube.com/user/dilbert/videos){:target="_blank"}. 
+If you enjoyed these Dilbert videos, jump over to our second instalment, [6 Dilbert Videos That Prove You Need Time Tracking](/2017/05/6-dilbert-videos-that-prove-you-need-time-tracking/)
+
+If you’re still looking for more, visit the treasure trove of Dilbert workplace videos on the Dilbert YouTube channel [here](https://www.youtube.com/user/dilbert/videos){:target="_blank"}. 
 
 But be warned, they’re a little addictive, so watching them might not exactly help you get your projects and tasks completed on time today!
