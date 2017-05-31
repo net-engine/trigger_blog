@@ -92,6 +92,10 @@ Unlike some of the big guns in the time tracking and project management industry
 
 &nbsp;
 
+![Trigger vs. WorkflowMax](/assets/compare-workflow-max/compare_table.png)
+
+&nbsp;
+
 ## Want to try Trigger? ##
 
 Don’t just take our word for whether Trigger is the best alternative to WorkflowMax.
