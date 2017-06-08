@@ -5,7 +5,7 @@ image: /assets/hero/compare-to-workflowmax.jpeg
 thumb: /assets/hero/compare-to-workflowmax-thumb.jpeg
 author: Andrea Martins
 avatar: /assets/avatars/andrea.jpg
-abbreviation: "WorkflowMax is another project management app often compared to Trigger. We can understand why: both Trigger and WorkflowMax combine time tracking with project management and invoicing"
+abbreviation: "WorkflowMax is another project management app often compared to Trigger. We can understand why..."
 ---
 
 [Purchased by Xero in 2012 for NZ$6 million](https://en.wikipedia.org/wiki/Xero_(software)){:target="_blank" rel="nofollow"}, WorkflowMax is another project management app often compared to Trigger. 

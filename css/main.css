@@ -361,3 +361,10 @@ footer .h4 {
   padding: 0.5rem;
   border-radius: 0.2rem;
 }
+
+@media (min-width: 64em) {
+  .lg-px4 {
+    padding-left: 4rem !important;
+    padding-right: 4rem !important;
+  }
+}
