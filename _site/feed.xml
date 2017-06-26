@@ -6,9 +6,261 @@
 </description>
     <link>http://blog.triggerapp.com/</link>
     <atom:link href="http://blog.triggerapp.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jun 2017 13:51:08 +0700</pubDate>
-    <lastBuildDate>Thu, 08 Jun 2017 13:51:08 +0700</lastBuildDate>
+    <pubDate>Mon, 26 Jun 2017 09:38:38 +0700</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2017 09:38:38 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>13 Reasons why Trigger is the Best Alternative to Basecamp</title>
+        <description>&lt;p&gt;In a world where it seems that a new project management app launches every week, Basecamp, started in Chicago, Illinois, way back in 1999, has become one of the grandfather apps in the project management world.&lt;/p&gt;
+
+&lt;p&gt;Basecamp has been around so long that it’s parent company, 37Signals (now renamed Basecamp) has had time to: expand its offering with a CRM (Customer Relationship Management) system called Highrise and a group chat product called Campfire; and then contract its offering again (Highrise has since spun off into its own company and Campfire is now part of Basecamp’s latest iteration, Basecamp 3).&lt;/p&gt;
+
+&lt;p&gt;But a lot has changed since 1999. So, if you’re looking for a modern project management app that offers a lot more functionality than Basecamp, you’re in the right place.&lt;/p&gt;
+
+&lt;p&gt;Here are 13 reasons why we think &lt;a href=&quot;https://www.triggerapp.com/&quot; target=&quot;_blank&quot;&gt;Trigger&lt;/a&gt; is the best project management alternative to Basecamp, to help you better manage your time-conscious projects and budgets.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;built-in-time-tracking-including-target-hours-vs-logged-hours&quot;&gt;1. Built-in time tracking (including target hours vs logged hours)&lt;/h3&gt;
+
+&lt;p&gt;If you’re a savvy business manager, tracking your team’s time can be critical for the success of your service-based business, where you need to know, for sure, how long it takes to complete tasks.&lt;/p&gt;
+
+&lt;p&gt;Unlike Basecamp, you do not need to pay a third party provider for time tracking in Trigger. Our built-in time tracking comes at no extra cost and it can help you stop overservicing clients and start increasing your business’ profitability.&lt;/p&gt;
+
+&lt;p&gt;The ability to see target hours versus logged hours (and not just a dummy bucket of tracked time) is also a godsend to project managers who need to keep projects on time, on track and on budget.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;built-in-management-reporting-on-screen-and-csv-reports&quot;&gt;2. Built-in management reporting (on-screen and CSV reports)&lt;/h3&gt;
+
+&lt;p&gt;Basecamp offers some basic on-screen reports, but Trigger offers much more expansive on-screen and CSV management reporting options for today’s data-driven manager.&lt;/p&gt;
+
+&lt;p&gt;Current Trigger reports include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Company, Project, Task, Task Description, Status, Assignee, Due Date, Logged Hours, Total Hours, - Employee, Employee Hours&lt;/li&gt;
+  &lt;li&gt;Tag, Company, Project, Task, Task Description, Status, Assignee, Due Date, Logged Hours, Total Hours&lt;/li&gt;
+  &lt;li&gt;Company, Project, Task, Billable Status, Logged Hours&lt;/li&gt;
+  &lt;li&gt;Uninvoiced Companies with Billable items&lt;/li&gt;
+  &lt;li&gt;Timesheets (by Company, by Date and/or Employee)&lt;/li&gt;
+  &lt;li&gt;Monthly revenue&lt;/li&gt;
+  &lt;li&gt;Billable hours&lt;/li&gt;
+  &lt;li&gt;My hours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;built-in-invoicing&quot;&gt;3. Built-in invoicing&lt;/h3&gt;
+
+&lt;p&gt;Trigger has built-in invoicing functionality, but after all these years, Basecamp still does not. We couldn’t even see a third party invoicing integration on Basecamp’s integrations page. This means if you’re using Basecamp and wanting an invoicing solution, you’ll probably need to go hunting for an invoicing app that runs separately (and at an additional cost) to Basecamp.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;xero-integration&quot;&gt;4. Xero integration&lt;/h3&gt;
+
+&lt;p&gt;Trigger syncs smoothly to the popular accounting application, Xero, which means its perfect for small and medium sized businesses who use Xero.&lt;/p&gt;
+
+&lt;p&gt;Connecting Xero with Trigger will allow you to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Import Xero Accounts&lt;/li&gt;
+  &lt;li&gt;Import Xero Contacts as Companies&lt;/li&gt;
+  &lt;li&gt;Import Xero Tracking Categories&lt;/li&gt;
+  &lt;li&gt;Import Xero Currency&lt;/li&gt;
+  &lt;li&gt;Import Xero Employees&lt;/li&gt;
+  &lt;li&gt;Import Xero Leave Applications&lt;/li&gt;
+  &lt;li&gt;Sync invoices to Xero&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No Xero account yet? &lt;a href=&quot;http://www.kqzyfj.com/2p98y1A719PYSZQQWTPRSTYXUVQ&quot; target=&quot;_blank&quot;&gt;Try Xero for free&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;slack-integration&quot;&gt;5. Slack integration&lt;/h3&gt;
+
+&lt;p&gt;Basecamp offers a group chat function, but it’s nowhere near as powerful as what Slack offers, so that’s why, here at Trigger, we integrated with Slack (which is free for 30% of its current user base) rather than spending money on building a new group chat platform.&lt;/p&gt;
+
+&lt;p&gt;View how our Trigger-to-Slack integration works &lt;a href=&quot;http://productupdates.triggerapp.com/2017/06/new-slack-integration/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;View why we love Slack &lt;a href=&quot;https://blog.triggerapp.com/2017/06/7-top-reasons-we-love-slack/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;tasks-list-view-all-of-account-company-or-project&quot;&gt;6. Tasks list view (all of account, company or project)&lt;/h3&gt;
+
+&lt;p&gt;Trigger offers a comprehensive tasks list view (with sophisticated filtering) which displays every task in your account and/or just the tasks for one company or project.&lt;/p&gt;
+
+&lt;p&gt;This is different from Basecamp, which focusses on a per-project view, rather than per-project and per-tasks views.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;advanced-task-management-ordering-and-sorting&quot;&gt;7. Advanced task management, ordering and sorting&lt;/h3&gt;
+
+&lt;p&gt;Trigger allows you to filter and sort tasks in just as many ways as your business is different.&lt;/p&gt;
+
+&lt;p&gt;We currently enable you to sort your task by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;By priority&lt;/li&gt;
+  &lt;li&gt;By due date&lt;/li&gt;
+  &lt;li&gt;By task number&lt;/li&gt;
+  &lt;li&gt;By task name&lt;/li&gt;
+  &lt;li&gt;By tag&lt;/li&gt;
+  &lt;li&gt;By assignee&lt;/li&gt;
+  &lt;li&gt;By author&lt;/li&gt;
+  &lt;li&gt;By status&lt;/li&gt;
+  &lt;li&gt;By company name&lt;/li&gt;
+  &lt;li&gt;By project name&lt;/li&gt;
+  &lt;li&gt;By total hours logged&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;kanban-boards&quot;&gt;8. Kanban boards&lt;/h3&gt;
+
+&lt;p&gt;If you love the visual appeal of &lt;a href=&quot;https://www.triggerapp.com/alternative-to-trello&quot; target=&quot;_blank&quot;&gt;Trello&lt;/a&gt;-like Kanban boards, you’ll love that, unlike Basecamp, Trigger offers a Kanban board option for your tasks.&lt;/p&gt;
+
+&lt;p&gt;And unlike competitors &lt;a href=&quot;https://www.triggerapp.com/alternative-to-asana&quot; target=&quot;_blank&quot;&gt;such as Asana&lt;/a&gt;, Trigger doesn’t marry you to one view of the other. Trigger allows you the ability to easily switch between a Tasks list view and a Kanban board view, at any point in time.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;ability-to-let-clients-in-to-collaborate&quot;&gt;9. Ability to let clients in to collaborate&lt;/h3&gt;
+
+&lt;p&gt;Trigger allows you to invite clients in to collaborate. It will also allow you to choose to keep private status updates, so you can keep your internal conversations private and only make public the conversations you’re happy for your clients to see and collaborate on.&lt;/p&gt;
+
+&lt;p&gt;Basecamp only offers this in their “Clientside” feature, which is for subscribers on the US$79/month plan and the US$3000/month enterprise plans.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;optional-ability-to-show-clients-their-billable-info-target-hours-and-logged-hours&quot;&gt;10. Optional ability to show clients their billable info, target hours and logged hours&lt;/h3&gt;
+
+&lt;p&gt;Trigger offers the optional ability to show clients their billable information (not your internal costs), target hours and logged hours. Basecamp does not.&lt;/p&gt;
+
+&lt;p&gt;So, if you’re in favour of (optional) total client transparency, Trigger might be perfect for you.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;calendar&quot;&gt;11. Calendar&lt;/h3&gt;
+
+&lt;p&gt;Basecamp has a “Schedule” view which shows due dates (which is similar to Trigger’s “Calendar” view). However, unlike Trigger, Basecamp’s Schedule is only inside each project itself, it does not show an all-of-account (or all-per-person) summary of due dates, for easier reference.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;team-schedule&quot;&gt;12. Team schedule&lt;/h3&gt;
+
+&lt;p&gt;Trigger offers an awesome team schedule for team organisation and capacity planning. Basecamp does not.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/compare-basecamp/team_schedule.png&quot; alt=&quot;Schedule&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;super-responsiveness&quot;&gt;13. Super-responsiveness&lt;/h3&gt;
+
+&lt;p&gt;Unlike some of the old names in the project management field, we try to be super responsive to our customer’s changing needs and requests at Trigger. We’re adding customer-requested features and improvements all the time, so if you have an awesome idea for us, don’t hesitate to reach out to us &lt;a href=&quot;mailto:support@triggerapp.com&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/compare-basecamp/compare_table.png&quot; alt=&quot;Compare to Basecamp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;want-to-make-the-switch-from-basecamp&quot;&gt;Want to make the switch from Basecamp?&lt;/h3&gt;
+
+&lt;p&gt;If you’re interested in switching from Basecamp to Trigger, you’re in luck.&lt;/p&gt;
+
+&lt;p&gt;Trigger offers a quick Basecamp import integration that allows you to easily:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Import Basecamp Todolists&lt;/li&gt;
+  &lt;li&gt;Import Basecamp Todos&lt;/li&gt;
+  &lt;li&gt;Import Basecamp Comments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We also offer a quick Highrise integration, to bring across your Highrise companies and users in just a few clicks.&lt;/p&gt;
+
+&lt;p&gt;Want to try it?&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.triggerapp.com/users/sign_in&quot; target=&quot;_blank&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And welcome to Trigger. :)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jun 2017 00:00:00 +0700</pubDate>
+        <link>http://blog.triggerapp.com/2017/06/13-reasons-why-trigger-is-the-best-alternative-to-basecamp/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2017/06/13-reasons-why-trigger-is-the-best-alternative-to-basecamp/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Do I Really Need A Time Tracker?</title>
+        <description>&lt;p&gt;If you’ve been debating whether or not to start using a time tracker for your business, the answer is yes, if you’re in a service-based business where your projects depend on an hourly input, you do need a time tracker - and you probably already know it.&lt;/p&gt;
+
+&lt;p&gt;Not surprisingly, &lt;a href=&quot;https://hbr.org/2015/01/workers-are-bad-at-filling-out-timesheets-and-it-costs-billions-a-day&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;billions of dollars&lt;/a&gt; are shaved off the economy each year because team members are not tracking their time accurately. It’s easy to do. We’re all busy. We all believe we’re working as hard as we can. We all feel bad when client projects run over time and most of us are too scared to ask our clients to fund our shortfall anyway.&lt;/p&gt;
+
+&lt;p&gt;But that’s the beauty of time tracking: the more you track your time, the more you learn what projects are likely to run over budget and the smarter you get about budget estimations for future client jobs.&lt;/p&gt;
+
+&lt;p&gt;If you still need a list of reasons to track time in your business, here are our top three:&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;to-stop-losing-money&quot;&gt;1. To stop losing money&lt;/h3&gt;
+
+&lt;p&gt;A few months ago, we asked our customers why they pay for Trigger as their time tracking and project management solution. The most common response we got was “because, before Trigger, we were losing money by overservicing clients”. So many customers said the same thing that we actually changed the words on our home page to mirror what we were hearing from our customers.&lt;/p&gt;
+
+&lt;p&gt;The reality of most small and medium sized businesses is that, if we’re honest with ourselves, we underestimate a lot of client jobs and we end up overservicing clients and losing money.&lt;/p&gt;
+
+&lt;p&gt;But by the time we realise that, it’s often too late to do anything about it. Contracts are signed and personal relationships are built. To rock the boat and ask clients for more money is always a risky move and most of us choose to wear the loss and hope we’ll get it better next time.&lt;/p&gt;
+
+&lt;p&gt;But that’s the thing. We can’t just hope we’ll estimate better next time. We need to be accurately time tracking every single task and project so we can learn how to estimate better next time - and the time after that - and that time after that.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;to-see-whats-really-going-on-in-your-business&quot;&gt;2. To see what’s really going on in your business&lt;/h3&gt;
+
+&lt;p&gt;Let’s say you have a senior team member named Jennifer. She’s an awesome asset for your team and delivers exceptional work, every time. But the problem is that it always takes Jennifer longer to complete projects and tasks than you would expect, and you don’t know why.&lt;/p&gt;
+
+&lt;p&gt;By enabling Jennifer to track her time, you and Jennifer will start to learn what tasks are taking her the most time and what tasks she could potentially delegate to another team member - or to a cheaper, external resource.&lt;/p&gt;
+
+&lt;p&gt;For example, if Jennifer is spending 10 hours doing online research that a freelancer could do for half the price, a time tracking app can help you identify this and take action early, before Jennifer becomes overwhelmed and runs behind deadline on the work where her expertise is needed more.&lt;/p&gt;
+
+&lt;p&gt;You may think “well, it’s only 10 hours we’re talking about”. But every “only 10 hours” adds up and that’s exactly the kind of trend that a report from a clever time tracking tool like &lt;a href=&quot;https://www.triggerapp.com/&quot; target=&quot;_blank&quot;&gt;Trigger&lt;/a&gt; can help you identify and rectify asap.&lt;/p&gt;
+
+&lt;p&gt;Or let’s say that you are Jennifer…&lt;/p&gt;
+
+&lt;p&gt;You know that you are given 101 things to do for each project but when you ask for more resources, in the heat of the meeting, you find it hard to quantify exactly how much time you spend on what and it’s frustrating to not be able to articulate what’s really going in on your work desk - because you haven’t been accurately tracking it.&lt;/p&gt;
+
+&lt;p&gt;If you’re Jennifer, a time tracker could genuinely relieve some of your pain because when you (and your manager) run reports on how long it takes to perform certain tasks, it will be much easier to say, “See, those client liaison calls are eating so much into my work time that it’s impossible for me to get everything done on time, unless I get some help with either the client calls or with some of my other tasks.”&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;to-boost-team-performance&quot;&gt;3.  To boost team performance&lt;/h3&gt;
+
+&lt;p&gt;Even for high performers, there’s nothing like vanity metrics to encourage team members to work at their highest capacity. Before &lt;a href=&quot;https://www.triggerapp.com/&quot; target=&quot;_blank&quot;&gt;Trigger&lt;/a&gt;, I confess that I’d never used a time tracker. I’d always been a high performer, so I thought the concept was irrelevant for me. How wrong I was. Now that I use Trigger to track time on my work tasks, I’ll often work extra time before logging off at the end of the day, because I hate seeing a low hours count on my profile and I always want to feel better about my data count.&lt;/p&gt;
+
+&lt;p&gt;Here’s another example of the power of vanity metrics…&lt;/p&gt;
+
+&lt;p&gt;Some time ago, I watched a video of &lt;a href=&quot;https://www.youtube.com/watch?v=6fQHLK1aIBs&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;lecture 14&lt;/a&gt; in Sam Altman’s &lt;em&gt;How To Start A Startup&lt;/em&gt; series at Stanford University, where Keith Rabois (a former exec at PayPal, Slide, Square and LinkedIn) told a vanity metrics story. He said that when he was at LinkedIn, the personal profile button was not easy to find on the LinkedIn home page. Yet, despite that, 25% of clicks from the home page every day were to a user’s personal profile, because people love looking at and improving their data!&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;want-to-start-tracking-your-time&quot;&gt;Want to start tracking your time?&lt;/h3&gt;
+
+&lt;p&gt;Trigger is one of many low cost, cloud-based solutions that can help you track time and help stop your company losing money.&lt;/p&gt;
+
+&lt;p&gt;What makes us different from our competitors?&lt;/p&gt;
+
+&lt;p&gt;Trigger integrates time tracking with project management. This means that time is not logged in dummy time buckets - instead, time is always logged against a real task, project and company, which makes it easier to manage your projects and know what’s really going on in your business.
+So, if know you need a time tracker and you want to help your business stop overservicing clients, why not &lt;a href=&quot;https://www.triggerapp.com/&quot; target=&quot;_blank&quot;&gt;try Trigger today&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;30-day free trial. No contracts. No credit card required.&lt;/p&gt;
+
+&lt;p&gt;And we’re really nice people too!&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Jun 2017 00:00:00 +0700</pubDate>
+        <link>http://blog.triggerapp.com/2017/06/00-do-i-really-need-a-time-tracker/</link>
+        <guid isPermaLink="true">http://blog.triggerapp.com/2017/06/00-do-i-really-need-a-time-tracker/</guid>
+        
+        
+      </item>
     
       <item>
         <title>9 Reasons why Trigger is the Best Alternative to Trello</title>
@@ -919,106 +1171,6 @@
         <pubDate>Wed, 05 Apr 2017 00:00:00 +0700</pubDate>
         <link>http://blog.triggerapp.com/2017/04/07-dilbert-videos-that-prove-you-need-project-management/</link>
         <guid isPermaLink="true">http://blog.triggerapp.com/2017/04/07-dilbert-videos-that-prove-you-need-project-management/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>7 Interesting Facts We Didn't Know About Xero</title>
-        <description>&lt;p&gt;If your business depends on Xero’s &lt;a href=&quot;http://www.kqzyfj.com/2p98y1A719PYSZQQWTPRSTYXUVQ&quot; target=&quot;_blank&quot;&gt;easy to use accounting software&lt;/a&gt;, like ours does, you’re probably already familiar with some of the company’s impressive statistics and the backstory of its founder, Ron Drury.&lt;/p&gt;
-
-&lt;p&gt;But even die-hard Xero fans like us can’t keep up with this phenomenal New Zealand success story. Here are seven interesting facts we found today about Xero that we didn’t know. We challenge you: how many did you know?&lt;/p&gt;
-
-&lt;h2 id=&quot;google-trends---worldwide&quot;&gt;1. Google Trends - Worldwide&lt;/h2&gt;
-
-&lt;p&gt;According to &lt;a href=&quot;https://trends.google.com.au/trends/explore?date=today%2012-m&amp;amp;q=xero,myob,quicken,quickbooks,reckon&amp;amp;hl=en-US&quot; target=&quot;_blank&quot;&gt;Google Trends&lt;/a&gt;, the countries with the highest percentage of Google searches for Xero in their country (compared to their competitors) are, in this order: New Zealand; United Kingdom; Australia; Brazil; Poland; and then Turkey.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/Xero Worldwide.png&quot; alt=&quot;Google Trends - Worldwide&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Key: Green = Quickbooks; Blue = Xero; Red = MYOB; Yellow = Quicken; and Purple = Reckon.&lt;/p&gt;
-
-&lt;h2 id=&quot;google-trends---australia&quot;&gt;2. Google Trends - Australia&lt;/h2&gt;
-
-&lt;p&gt;The Northern Territory is the only state in Australia where MYOB is searched* more than Xero, by the slimmest of margins. NSW, VIC and WA are the three states where Xero is searched the most, compared to Xero’s competitors.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/Northern Territory - Xero.png&quot; alt=&quot;Google Trends - Australia&quot; target=&quot;_blank&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;*
-  Values are scaled from 0 to 100, where 100 is the region with peak popularity, a value of 50 is the region where the term is half as popular, and a value of 0 means that term was less than 1% as popular as the peak.&lt;/p&gt;
-
-&lt;h2 id=&quot;xero-subscribers&quot;&gt;3. Xero subscribers&lt;/h2&gt;
-
-&lt;p&gt;Xero’s cloud based accounting platform has over 862,000 subscribers! That’s a crazy number that our &lt;a href=&quot;http://triggerapp.com/&quot; target=&quot;_blank&quot;&gt;Trigger&lt;/a&gt; team could only dream of for our cloud based time tracking and project management tool.&lt;/p&gt;
-
-&lt;p&gt;But take hope, the graph below shows that it hasn’t always been that way. Like any new business startup, Xero started from humble beginnings. To its credit, it has come a long way in the last eleven years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/Xero subscribers.png&quot; alt=&quot;Xero subscribers&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;diversity-in-the-leadership-team&quot;&gt;4. Diversity in the leadership team&lt;/h2&gt;
-
-&lt;p&gt;Bucking the trend of most billion dollar cap companies, Xero’s leadership team around their CEO comprises 40% women. For a boring old industry like accounting that’s typically dominated by men, this diversity is refreshing to see.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/Leadership team.png&quot; alt=&quot;Diversity in the leadership team&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;most-popular-xero-blog-posts&quot;&gt;5. Most popular Xero blog posts&lt;/h2&gt;
-
-&lt;p&gt;The most popular Xero blog posts (as counted by social media shares) are on the topics of: automated bookkeeping; Xero’s integration with Microsoft’s Power BI; a customer case study of a Chicago rock and roll band; and a podcast interview with Ron Cates of Constant Contact and Megan Roth of Insightly, about how to attract and retain customers.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/xero blog.png&quot; alt=&quot;Most popular Xero blog posts&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://buzzsumo.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Image source&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;xeros-add-on-marketplace&quot;&gt;6. Xero’s add-on marketplace&lt;/h2&gt;
-
-&lt;p&gt;There are over 500 apps in Xero’s add-on marketplace. This would explain why, as a vendor such as &lt;a href=&quot;http://triggerapp.com/&quot; target=&quot;_blank&quot;&gt;Trigger&lt;/a&gt;, it’s easy for us to get lost in there. When we reached out to Xero to ask if more customer reviews would make a difference, we were told that the best placements go to the apps with the most Xero customers. Catch 22?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/500 apps Xero.png&quot; alt=&quot;Xero’s add-on marketplace&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;xeros-ceo-says-to-fail-quick&quot;&gt;7. Xero’s CEO says to fail quick&lt;/h2&gt;
-
-&lt;p&gt;We love this sage advice for entrepreneurs by Xero’s CEO Drury, in digital magazine &lt;a href=&quot;http://nzentrepreneur.co.nz/rod-drury-of-xero/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;NZ Entrepreneur&lt;/a&gt;:&lt;/p&gt;
-
-&lt;p&gt;“When things aren’t working I try to quit them as soon as I can as my time and resources will be better spent elsewhere. So I think failing quick is a key skill for entrepreneurs.”&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/xero/Rod Drury Xero - Image credit Midliferocksblog.com.jpg&quot; alt=&quot;Xero’s CEO&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://midliferocksblog.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Image source&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;Xero fans - how many of these did you know?&lt;/p&gt;
-
-&lt;p&gt;Xero newcomers - if you’re not already using Xero, you’re missing out on the fun.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.kqzyfj.com/2p98y1A719PYSZQQWTPRSTYXUVQ&quot; target=&quot;_blank&quot;&gt;Check Xero out today&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;update-30-march-2017-au&quot;&gt;Update: 30 March 2017 AU&lt;/h3&gt;
-
-&lt;p&gt;Xero announced today that they passed 1 million subscribers worldwide. Congrats guys!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Mar 2017 00:00:00 +0700</pubDate>
-        <link>http://blog.triggerapp.com/2017/03/7interesting-facts-we-didnt-know-about-xero/</link>
-        <guid isPermaLink="true">http://blog.triggerapp.com/2017/03/7interesting-facts-we-didnt-know-about-xero/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>Trigger + Bugsnag = Better Together</title>
-        <description>&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
-&lt;html lang=&quot;en-US&quot;&gt;
-&lt;meta charset=&quot;utf-8&quot; /&gt;
-&lt;title&gt;Redirecting…&lt;/title&gt;
-&lt;link rel=&quot;canonical&quot; href=&quot;http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot; /&gt;
-&lt;meta http-equiv=&quot;refresh&quot; content=&quot;0; url=http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot; /&gt;
-&lt;h1&gt;Redirecting…&lt;/h1&gt;
-&lt;a href=&quot;http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot;&gt;Click here if you are not redirected.&lt;/a&gt;
-&lt;script&gt;location=&quot;http://productupdates.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/&quot;&lt;/script&gt;
-&lt;/html&gt;
-</description>
-        <pubDate>Fri, 27 Jan 2017 00:00:00 +0700</pubDate>
-        <link>http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/</link>
-        <guid isPermaLink="true">http://blog.triggerapp.com/2017/01/trigger-and-bugsnag-better-together/</guid>
         
         
       </item>

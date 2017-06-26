@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 9 Reasons why Trigger is the Best Alternative to Trello
-image: /assets/hero/compare-to-trello.jpeg
-thumb: /assets/hero/compare-to-trello-thumb.jpeg
+image: /assets/hero/compare-to-trello-thumb.jpg
+thumb: /assets/hero/compare-to-trello-thumb.jpg
 author: Andrea Martins
 avatar: /assets/avatars/andrea.jpg
 ---
